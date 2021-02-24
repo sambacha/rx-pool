@@ -1,0 +1,11 @@
+{
+	"name": "rx-pool",
+	"version": "1.0.0",
+	"description": "reactive pool of promises that can be awaited and executed at a chosen level of concurrency",
+	"main": "lib/index.js",
+	"scripts": {},
+	"devDependencies": {
+		"jest": "^22.4.3"
+	},
+	"dependencies": {}
+}
